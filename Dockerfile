@@ -1,7 +1,9 @@
-FROM node:16.14.2-alpine
+# final outcome
+FROM gcr.io/distroless/cc-debian12
 WORKDIR /app
 
-RUN npm i docsify-cli -g
 COPY . .
 
-ENTRYPOINT [ "docsify", "serve", "docs" ]
+EXPOSE 80
+
+CMD ["/app/caddy", "run"]
