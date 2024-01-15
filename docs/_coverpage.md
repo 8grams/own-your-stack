@@ -4,7 +4,7 @@
 
 - No Vendor Lock-in
 - Auditable. Be transparent and responsible!
-- Don't waste your money. It's cheap!!
+- Don't waste your money. It should be cheap!
 
 [Fork me on GitHub](https://github.com/8grams/own-your-stack/)
 [Show me!](#homepage)
