@@ -41,6 +41,7 @@
 
 - Internal Tools
   - [Password Manager](password-manager.md)
+  - [Task Management](task-management.md)
 
 - GitOps
   - [ArgoCD](argocd.md)
