@@ -31,6 +31,7 @@
   - [Product Management](product-management.md)
 
 - Infrastructure Component
+  - [Serverless](serverless.md)
   - [Alert System](alert-system.md)
   - [Uptime Monitoring](uptime-monitoring.md)
   - [Secret Management](secret-management.md)
