@@ -2,3 +2,5 @@
 - [Blog](https://8grams.tech/blog)
 - [The Frugal CTO](https://8grams.tech/the-frugal-cto)
 - [DevOps Academy](https://onxp.net)
+- [Cockpit](https://cockpit.8grams.tech)
+- [RetroSuite](https://retrosuite.co)
